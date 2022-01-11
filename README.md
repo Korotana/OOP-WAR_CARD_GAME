@@ -1,6 +1,6 @@
 # OOP-WAR_CARD_GAME
 
-# This card game will be the card game "War" for two players, you an the computer. 
+ This card game will be the card game "War" for two players, you an the computer. 
 # If you don't know how to play "War" here are the basic rules:
 #
 # The deck is divided evenly, with each player receiving 26 cards, dealt one at a time,
